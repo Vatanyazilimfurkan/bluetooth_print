@@ -233,3 +233,4 @@ you can join this [QQ](https://im.qq.com/index.shtml) group, feedback your probl
 
 ## Thanks For
 - [flutter_blue](https://github.com/pauldemarco/flutter_blue)
+# bluetooth_print
